@@ -20,7 +20,7 @@
 - Implemented low-stock analysis to support inventory management
 
 - Provided actionable insights for revenue growth and operational efficiency
-  ___________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________
 
 # [Project 2: Netflix-Data-Analysis-Using-Power-BI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
 
