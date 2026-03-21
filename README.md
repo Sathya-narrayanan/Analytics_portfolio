@@ -25,8 +25,31 @@
 ![](Images/RETAIL%20SALES%20ANALYTICS%2002.jpg)
 ![](Images/RETAIL%20SALES%20ANALYTICS%2003.jpg)
 
-
 # [Project 2: Netflix Data Analysis Using PowerBI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
+
+- Analyzed Netflix data to understand content trends and customer behavior using Excel and Power BI
+
+- Built an end-to-end analytics pipeline (data cleaning → analysis → visualization)
+
+- Created interactive dashboards for genre, subscription, and customer analysis
+
+- Identified balanced genre distribution with no dominant category
+
+- Analyzed year-wise content growth, showing strong increase post-2020
+
+- Evaluated subscription plans, highlighting Standard plan dominance
+
+- Segmented customers by age, gender, and country
+
+- Found higher engagement in older age groups (60+) and lower in younger users
+
+- Provided insights for content strategy, user growth, and retention improvement
+
+![](Images/NETFLIX%2001.jpg)
+![](Images/NETFLIX%2002.jpg)
+![](Images/NETFLIX%2003.jpg)
+
+# [Project 3: Zomato Order & Restaurant Analysis Using Power BI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
 
 - Analyzed Netflix data to understand content trends and customer behavior using Excel and Power BI
 
