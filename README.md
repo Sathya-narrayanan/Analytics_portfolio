@@ -47,7 +47,7 @@
 
 - Provided insights for improving marketing, pricing, and delivery efficiency
 
-Link: [https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI] (https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI)
+[Link: https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI](https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI)
 
 
 ![](Images/ZOMATO%2001.jpg)
@@ -74,7 +74,7 @@ Link: [https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Usi
 
 - Provided insights for content strategy, user growth, and retention improvement
 
-Link: [https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI] (https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
+[Link: https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
 
 ![](Images/NETFLIX%2001.jpg)
 ![](Images/NETFLIX%2002.jpg)
@@ -82,9 +82,9 @@ Link: [https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI
 
 # [Project 4: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
 
-- Analyzed healthcare data to evaluate patients, doctors, appointments, and revenue using SQL, Excel, and Power BI
+- Analyzed healthcare data to evaluate patients, doctors, appointments, and revenue using SQL and Excel
 
-- Built an end-to-end analytics workflow (data cleaning → analysis → visualization)
+- Built an end-to-end analytics workflow (data cleaning → analysis)
 
 - Performed patient segmentation and identified inactive users
 
@@ -100,7 +100,7 @@ Link: [https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI
 
 - Provided insights for improving hospital efficiency, patient engagement, and revenue growth
 
-Link: [https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL] (https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
+[Link: https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
 
 ![](Images/HEALTHCARE%20ANALYTICS%20WITH%20SQL.png)
 
