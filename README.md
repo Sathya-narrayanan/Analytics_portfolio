@@ -69,6 +69,8 @@
 
 # [Project 7: Sales Performance Analysis with Excel](https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel)
 
+![](Images/ABC%20ELECTRONICS%20-%20SALES%20PERFORMANCE%20ANALYSIS%20WITH%20EXCEL.png)
+
 
 
 
