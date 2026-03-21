@@ -21,11 +21,37 @@
 
 - Provided actionable insights for revenue growth and operational efficiency
 
+Link: (https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI)
+
 ![](Images/RETAIL%20SALES%20ANALYTICS%2001.jpg)
 ![](Images/RETAIL%20SALES%20ANALYTICS%2002.jpg)
 ![](Images/RETAIL%20SALES%20ANALYTICS%2003.jpg)
 
-# [Project 2: Netflix Data Analysis Using PowerBI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
+# [Project 2: Zomato Order & Restaurant Analysis Using Power BI](https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI)
+
+- Analyzed Zomato data to understand customer behavior, sales trends, and restaurant performance using SQL, Excel, and Power BI
+
+- Built an end-to-end analytics workflow (data cleaning → analysis → visualization)
+
+- Created interactive dashboards for city-wise, time-based, and cuisine analysis
+
+- Identified top cities (Mumbai, Bangalore) with highest demand and revenue
+
+- Analyzed monthly, daily, and hourly sales trends for business planning
+
+- Evaluated customer ordering patterns across price ranges and payment methods
+
+- Studied delivery time performance across different areas
+
+- Highlighted demand-supply gaps in cities with low restaurant presence
+
+- Provided insights for improving marketing, pricing, and delivery efficiency
+
+![](Images/ZOMATO%2001.jpg)
+![](Images/ZOMATO%2002.jpg)
+![](Images/ZOMATO%2003.jpg)
+
+# [Project 3: Netflix Data Analysis Using PowerBI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
 
 - Analyzed Netflix data to understand content trends and customer behavior using Excel and Power BI
 
@@ -48,13 +74,6 @@
 ![](Images/NETFLIX%2001.jpg)
 ![](Images/NETFLIX%2002.jpg)
 ![](Images/NETFLIX%2003.jpg)
-
-# [Project 3: Zomato Order & Restaurant Analysis Using Power BI](https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI)
-
-
-![](Images/ZOMATO%2001.jpg)
-![](Images/ZOMATO%2002.jpg)
-![](Images/ZOMATO%2003.jpg)
 
 # [Project 4: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
 
