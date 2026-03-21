@@ -46,4 +46,8 @@
 
 - Provided insights for content strategy, user growth, and retention improvement
 
+![](Images/NETFLIX%2001.jpg)
+![](Images/NETFLIX%2002.jpg)
+![](Images/NETFLIX%2003.jpg)
+
 
