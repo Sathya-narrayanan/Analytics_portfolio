@@ -21,7 +21,7 @@
 
 - Provided actionable insights for revenue growth and operational efficiency
 
-[](https://github.com/Sathya-narrayanan/Analytics_portfolio/blob/main/Images/RETAIL%20SALES%20ANALYTICS%2001.jpg)
+![](https://github.com/Sathya-narrayanan/Analytics_portfolio/blob/main/Images/RETAIL%20SALES%20ANALYTICS%2001.jpg)
 
 # [Project 2: Netflix Data Analysis Using PowerBI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
 
