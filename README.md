@@ -62,8 +62,8 @@
 
 # [Project 5: Amazon Fresh Analytics with SQL](https://github.com/Sathya-narrayanan/Amazon-Fresh-Analytics-with-SQL)
 
-![](/Images/AMAZON%20FRESH%20ANALYTICS%20WITH%20SQL%2001.PNG)
-![](/Images/AMAZON%20FRESH%20ANALYTICS%20WITH%20SQL%2002.PNG)
+![](Images/AMAZON%20FRESH%20ANALYTICS%20WITH%20SQL%2001.PNG)
+![](Images/AMAZON%20FRESH%20ANALYTICS%20WITH%20SQL%2002.PNG)
 
 # [Project 6: Customer Demographics and Purchase Behavior Analysis](https://github.com/Sathya-narrayanan/Customer-Demographics-and-Purchase-Behavior-Analysis)
 
