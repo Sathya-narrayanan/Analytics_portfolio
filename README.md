@@ -106,6 +106,8 @@
 
 - Provided insights for improving pricing strategy, profitability, and business growth
 
+[Link: https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel](https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel)
+
 ![](Images/ABC%20ELECTRONICS%20-%20SALES%20PERFORMANCE%20ANALYSIS%20WITH%20EXCEL.png)
 
 # [Project 5: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
