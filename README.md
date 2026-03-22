@@ -161,6 +161,25 @@
 
 # [Project 7: Customer Demographics and Purchase Behavior Analysis](https://github.com/Sathya-narrayanan/Customer-Demographics-and-Purchase-Behavior-Analysis)
 
+- Analyzed customer data to understand demographics, purchasing patterns, and revenue trends using SQL, Excel, and Power BI
+
+- Built an end-to-end analytics workflow (data cleaning → analysis → visualization)
+
+- Performed customer segmentation based on age, gender, and region
+
+- Analyzed product category performance and revenue contribution
+
+- Conducted regression analysis showing age has minimal impact on purchase behavior
+
+- Identified high-performing regions and seasonal purchase trends
+
+- Evaluated monthly trends to detect peak sales periods
+
+- Highlighted key drivers of customer behavior and revenue generation
+
+- Provided insights for improving marketing strategy and inventory planning
+
+- [Link: https://github.com/Sathya-narrayanan/Customer-Demographics-and-Purchase-Behavior-Analysis](https://github.com/Sathya-narrayanan/Customer-Demographics-and-Purchase-Behavior-Analysis)
 
 
 
