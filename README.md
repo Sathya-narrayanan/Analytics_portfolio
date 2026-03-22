@@ -1,4 +1,4 @@
-# Sathyanarrayanan (Business Analyst)
+# Sathyanarrayanan BE, MBA(Business Analytics), PGCM(IIM)
 
 ### Email: [sathyanarrayanan.egmp07@iimtrichy.ac.in](mailto:sathyanarrayanan.egmp07@iimtrichy.ac.in)
 
