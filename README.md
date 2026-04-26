@@ -111,7 +111,7 @@
 
 [Link: https://github.com/Sathya-narrayanan/CSAT_Detailed-Business-Analysis-Report](https://github.com/Sathya-narrayanan/CSAT_Detailed-Business-Analysis-Report)
 
-![](Images/CSAT DASHBOARD.jpg)
+![](Images/CSAT%20DASHBOARD.jpg)
 
 
 # [Project 5: Sales Performance Analysis with Excel](https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel)
