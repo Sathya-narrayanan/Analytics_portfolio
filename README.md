@@ -4,10 +4,35 @@
 
 ### Linkedin: [linkedin.com/in/sathyanarrayanan/](https://www.linkedin.com/in/sathyanarrayanan/)
 
-
-
-
 # [Project 1: Retail Sales Analytics Using Excel, SQL and PowerBI](https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI)
+
+- Analyzed fast food nutritional data to uncover trends in restaurant performance and food quality using Power BI
+
+- Built an end-to-end analytics workflow including data cleaning, analysis, and dashboard visualization
+
+- Performed restaurant-wise nutritional analysis covering calories, fat, sodium, cholesterol, protein, carbohydrates, and fiber
+
+- Created interactive Power BI dashboards to compare restaurant performance and nutritional composition
+
+- Identified top 10 highest calorie, sodium, and cholesterol food items across major fast food chains
+
+- Analyzed calorie distribution and nutrient patterns to detect high-risk food categories
+
+- Compared restaurant-level nutritional balance to highlight healthier and high-risk brands
+
+- Generated actionable insights and business recommendations for healthier menu optimization and improved customer awareness
+
+[Link: https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI](https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI)
+
+![](Images/Fastfood_Analysis_01.jpg)
+![](Images/Fastfood_Analysis_02.jpg)
+![](Images/Fastfood_Analysis_03.jpg)
+![](Images/Fastfood_Analysis_04.jpg)
+
+
+
+
+# [Project 2: Retail Sales Analytics Using Excel, SQL and PowerBI](https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI)
 
 - Analyzed retail sales data to generate business insights using SQL, Excel, and Power BI
 
@@ -33,7 +58,7 @@
 ![](Images/RETAIL%20SALES%20ANALYTICS%2002.jpg)
 ![](Images/RETAIL%20SALES%20ANALYTICS%2003.jpg)
 
-# [Project 2: Zomato Order & Restaurant Analysis Using Power BI](https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI)
+# [Project 3: Zomato Order & Restaurant Analysis Using Power BI](https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI)
 
 - Analyzed Zomato data to understand customer behavior, sales trends, and restaurant performance using SQL, Excel, and Power BI
 
@@ -60,7 +85,7 @@
 ![](Images/ZOMATO%2002.jpg)
 ![](Images/ZOMATO%2003.jpg)
 
-# [Project 3: Netflix Data Analysis Using PowerBI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
+# [Project 4: Netflix Data Analysis Using PowerBI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
 
 - Analyzed Netflix data to understand content trends and customer behavior using Excel and Power BI
 
@@ -86,7 +111,7 @@
 ![](Images/NETFLIX%2002.jpg)
 ![](Images/NETFLIX%2003.jpg)
 
-# [Project 4: CSAT Detailed Business Analysis](https://github.com/Sathya-narrayanan/CSAT_Detailed-Business-Analysis-Report)
+# [Project 5: CSAT Detailed Business Analysis](https://github.com/Sathya-narrayanan/CSAT_Detailed-Business-Analysis-Report)
 
 - Analyzed customer support data to understand service performance and customer satisfaction using SQL and Power BI
 
@@ -114,7 +139,7 @@
 ![](Images/CSAT%20DASHBOARD.jpg)
 
 
-# [Project 5: Sales Performance Analysis with Excel](https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel)
+# [Project 6: Sales Performance Analysis with Excel](https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel)
 
 - Analyzed sales data to evaluate regional performance, product categories, and profitability using Excel
 
@@ -138,7 +163,7 @@
 
 ![](Images/ABC%20ELECTRONICS%20-%20SALES%20PERFORMANCE%20ANALYSIS%20WITH%20EXCEL.png)
 
-# [Project 6: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
+# [Project 7: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
 
 - Analyzed healthcare data to evaluate patients, doctors, appointments, and revenue using SQL and Excel
 
@@ -162,7 +187,7 @@
 
 ![](Images/HEALTHCARE%20ANALYTICS%20WITH%20SQL.png)
 
-# [Project 7: Amazon Fresh Analytics with SQL](https://github.com/Sathya-narrayanan/Amazon-Fresh-Analytics-with-SQL)
+# [Project 8: Amazon Fresh Analytics with SQL](https://github.com/Sathya-narrayanan/Amazon-Fresh-Analytics-with-SQL)
 
 - Designed and analyzed a relational database for customers, products, suppliers, and orders using SQL and Excel
 
@@ -187,7 +212,7 @@
 ![](Images/AMAZON%20FRESH%20ANALYTICS%20WITH%20SQL%2001.PNG)
 ![](Images/AMAZON%20FRESH%20ANALYTICS%20WITH%20SQL%2002.PNG)
 
-# [Project 8: Customer Demographics and Purchase Behavior Analysis](https://github.com/Sathya-narrayanan/Customer-Demographics-and-Purchase-Behavior-Analysis)
+# [Project 9: Customer Demographics and Purchase Behavior Analysis](https://github.com/Sathya-narrayanan/Customer-Demographics-and-Purchase-Behavior-Analysis)
 
 - Analyzed customer data to understand demographics, purchasing patterns, and revenue trends using SQL, Excel, and Power BI
 
