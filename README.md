@@ -4,7 +4,7 @@
 
 ### Linkedin: [linkedin.com/in/sathyanarrayanan/](https://www.linkedin.com/in/sathyanarrayanan/)
 
-# [Project 1: Retail Sales Analytics Using Excel, SQL and PowerBI](https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI)
+# [Project 1: Fastfood Analysis using PowerBI](https://github.com/Sathya-narrayanan/Fastfood_Analysis)
 
 - Analyzed fast food nutritional data to uncover trends in restaurant performance and food quality using Power BI
 
@@ -22,7 +22,7 @@
 
 - Generated actionable insights and business recommendations for healthier menu optimization and improved customer awareness
 
-[Link: https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI](https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI)
+[Link: https://github.com/Sathya-narrayanan/Fastfood_Analysis](https://github.com/Sathya-narrayanan/Fastfood_Analysis)
 
 ![](Images/Fastfood_Analysis_01.jpg)
 ![](Images/Fastfood_Analysis_02.jpg)
